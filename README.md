@@ -17,7 +17,7 @@ Para executar os testes com sucesso, é necessário baixar o arquivo Side e abri
 Durante o processo de teste, o foco está na avaliação da funcionalidade dos botões disponíveis na interface, garantindo que respondam adequadamente aos cliques e interações dos usuários. Além disso, foram realizadas verificações detalhadas para validar a entrada de dados nos campos designados, assegurando que os critérios de entrada sejam cumpridos de forma precisa e eficiente.
 
 ## Vídeo de Testes
-
+[TesteCaixaPreta - Deezer](https://youtu.be/6JMnqhN8F84)
 
 ## Autores:
 #### Rene Battaglia
